@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TheStickOfPogo
+- I enjoy working on weird stuff
+- I’m currently learning C#, Java, and Haxe
+- Feel like messaging me? Email me at jacksonak2@gmail.com.
